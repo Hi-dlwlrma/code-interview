@@ -49,41 +49,41 @@
 # leetcode-solution
 Provide all my solutions for problems on LeetCode (by Python)
 
-|#    |Solution            |Submitted Code  |Difficulty |
-|---  |---                 |---             |---        |
-|3|Longest Substring Without Repeating Characters|[lengthOfLongestSubstring.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/LongestSubstringWithoutRepeatingCharacters/lengthOfLongestSubstring.py)|Medium|
-|5|Longest Palindromic Substring|[longestPalindrome.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/LongestPalindromicSubstring/longestPalindrome.py)|Medium|
-|6|Zigzag Conversion|[convert.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ZigZagConversion/convert.py)|Medium|
-|13|Roman to Integer|[romanToInt.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/RomantoInteger/romanToInt.py)|Easy|
-|18|4Sum|[fourSum.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/4Sum/fourSum.py)|Medium|
-|36|Valid Sudoku|[isValidSudoku.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ValidSudoku/isValidSudoku.py)|Medium|
-|90|Subsets II|[subsetsWithDup.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/SubsetsII/subsetsWithDup.py)|Medium|
-|121|Best Time to Buy and Sell Stock|[maxProfit.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BestTimetoBuyandSellStock/maxProfit.py)|Easy|
-|122|Best Time to Buy and Sell Stock II|[maxProfit.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BestTimetoBuyandSellStockII/maxProfit.py)|Easy|
-|179|Largest Number|[largestNumber.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/LargestNumber/largestNumber.py)|Medium|
-|204|Count Primes|[countPrimes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/CountPrimes/countPrimes.py)|Easy|
-|338|Counting Bits|[countBits.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/CountingBits/countBits.py)|Easy|
-|383|Ransom Note|[canConstruct.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/RansomNote/canConstruct.py)|Easy|
-|401|Binary Watch|[readBinaryWatch.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BinaryWatch/readBinaryWatch.py)|Easy|
-|405|Convert a Number to Hexadecimal|[toHex.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ConvertaNumbertoHexadecimal/toHex.py)|Easy|
-|441|Arranging Coins|[arrangeCoins.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ArrangingCoins/arrangeCoins.py)|Easy|
-|520|Detect Capital|[detectCapitalUse.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/DetectCapital/detectCapitalUse.py)|Easy|
-|542|01 Matrix|[updateMatrix.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/01Matrix/updateMatrix.py)|Medium|
-|566|Reshape the Matrix|[matrixReshape.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ReshapetheMatrix/matrixReshape.py)|Easy|
-|611|Valid Triangle Number|[triangleNumber.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ValidTriangleNumber/triangleNumber.py)|Medium|
-|696|Count Binary Substrings|[countBinarySubstrings.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/CountBinarySubstrings/countBinarySubstrings.py)|Easy|
-|746|Min Cost Climbing Stairs|[minCostClimbingStairs.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/MinCostClimbingStairs/minCostClimbingStairs.py)|Easy|
-|796|Rotate String|[rotateString.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/RotateString/rotateString.py)|Easy|
-|812|Largest Triangle Area|[largestTriangleArea.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/LargestTriangleArea/largestTriangleArea.py)|Easy|
-|819|Most Common Word|[mostCommonWord.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/MostCommonWord/mostCommonWord.py)|Easy|
-|821|Shortest Distance to a Character|[shortestToChar.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ShortestDistanceToACharacter/shortestToChar.py)|Easy|
-|824|Goat Latin|[toGoatLatin.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/GoatLatin/toGoatLatin.py)|Easy|
-|832|Flipping an Image|[flipAndInvertImage.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/FlippingAnImage/flipAndInvertImage.py)|Easy|
-|836|Rectangle Overlap|[isRectangleOverlap.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/RectangleOverlap/isRectangleOverlap.py)|Easy|
-|838|Push Dominoes|[pushDominoes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PushDominoes/pushDominoes.py)|Medium|
-|852|Peak Index in a Mountain Array|[peakIndexInMountainArray.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PeakIndexInAMountainArray/peakIndexInMountainArray.py)|Easy|
-|859|Buddy Strings|[buddyStrings.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BuddyStrings/buddyStrings.py)|Easy|
-|868|Binary Gap|[binaryGap.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BinaryGap/binaryGap.py)|Easy|
-|915|Partition Array into Disjoint Intervals|[partitionDisjoint.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PartitionArrayintoDisjointIntervals/partitionDisjoint.py)|Medium|
-|932|Beautiful Array|[beautifulArray.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BeautifulArray/beautifulArray.py)|Medium|
-|954|Array of Doubled Pairs|[canReorderDoubled.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ArrayofDoubledPairs/canReorderDoubled.py)|Medium|
+|Problems|Solution|
+|---|---|
+|[0003 - Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/3/lengthOfLongestSubstring.py)|
+|[0005 - Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/5/longestPalindrome.py)|
+|[0006 - Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/6/convert.py)|
+|[0013 - Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/13/romanToInt.py)|
+|[0018 - 4Sum](https://leetcode.com/problems/4-sum/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/18/fourSum.py)|
+|[0036 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/36/isValidSudoku.py)|
+|[0090 - Subsets II](https://leetcode.com/problems/valid-sudoku-ii/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/90/subsetsWithDup.py)|
+|[0121 - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/121/maxProfit.py)|
+|[0122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stockk-ii/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/122/maxProfit.py)|
+|[0179 - Largest Number](https://leetcode.com/problems/large-number/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/179/largestNumber.py)|
+|[0204 - Count Primes](https://leetcode.com/problems/count-primes/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/204/countPrimes.py)|
+|[0338 - Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/338/countBits.py)|
+|[0383 - Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/383/canConstruct.py)|
+|[0401 - Binary Watch](https://leetcode.com/problems/binary-watch/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/401/readBinaryWatch.py)|
+|[0405 - Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/405/toHex.py)|
+|[0441 - Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/441/arrangeCoins.py)|
+|[0520 - Detect Capital](https://leetcode.com/problems/detect-capital/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/520/detectCapitalUse.py)|
+|[0542 - 01 Matrix](https://leetcode.com/problems/01-matrix/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/542/updateMatrix.py)|
+|[0566 - Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/566/matrixReshape.py)|
+|[0611 - Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/611/triangleNumber.py)|
+|[0696 - Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/696/countBinarySubstrings.py)|
+|[0746 - Min Cost Climbing Stairs](https://leetcode.com/problems/min-cocst-climbing-stairs/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/746/minCostClimbingStairs.py)|
+|[0796 - Rotate String](https://leetcode.com/problems/rotate-string/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/796/rotateString.py)|
+|[0812 - Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/812/largestTriangleArea.py)|
+|[0819 - Most Common Word](https://leetcode.com/problems/most-common-word/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/819/mostCommonWord.py)|
+|[0821 - Shortest Distance to a Character](https://leetcode.com/problems/shortest-distances-to-a-character/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/821/shortestToChar.py)|
+|[0824 - Goat Latin](https://leetcode.com/problems/goat-latin/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/824/toGoatLatin.py)|
+|[0832 - Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/832/flipAndInvertImage.py)|
+|[0836 - Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/836/isRectangleOverlap.py)|
+|[0838 - Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/838/pushDominoes.py)|
+|[0852 - Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/852/peakIndexInMountainArray.py)|
+|[0859 - Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/859/buddyStrings.py)|
+|[0868 - Binary Gap](https://leetcode.com/problems/binary-gap/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/868/binaryGap.py)|
+|[0915 - Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/915/partitionDisjoint.py)|
+|[0932 - Beautiful Array](https://leetcode.com/problems/beautiful-array/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/932/beautifulArray.py)|
+|[0954 - Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/)|[Python](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/python/954/canReorderDoubled.py)|
